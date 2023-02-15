@@ -13,7 +13,7 @@ __Contactez-moi !__
 
 > cl4ptr4-the-best@botmail.com  
 > Systeme ECHO n°666.666  
-> [Linkedin](https://borderlands.fandom.com/wiki/Claptrap)  
+> [Linkedout](https://borderlands.fandom.com/wiki/Claptrap)  
 
 Gloire à moi !
 

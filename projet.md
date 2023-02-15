@@ -8,7 +8,7 @@ _Robot parfait en quete d'un sbire acceptable_
 
 ## Quelques faits d'armes
 
-| Trophé| Nom | Lien |
+| Trophée| Nom | Lien |
 | ------ | ------ |------- |
 | ![Darwin Award](img/Darwin_Award.png) | Darwin Award | [Darwin Award](https://www.psthc.fr/trophee/borderlands3-ps4/darwin-award.htm?sid=fbff196ae538e057d66194a747992b1f) |
 | ![classe ultime](img/classe_ultime.png) | Classe Ultime | [Classe Ultime](https://www.psthc.fr/trophee/borderlands3-ps4/classe-ultime.htm?sid=fbff196ae538e057d66194a747992b1f) |

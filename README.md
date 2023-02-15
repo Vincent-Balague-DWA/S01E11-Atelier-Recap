@@ -8,7 +8,14 @@ Acceuil - [Faits d'armes](projet.md) - [Qualifications](qualifications.md) - [Co
 
 ## Présentation
 
-S’il vous plait! Faites pas votre mijoré! Moi je me fais traiter de gonzesse j’en fais pas tout un cake! Sinon on fait un tunnel jusqu'à notre campement. Léodagan et moi on creuse, pendant vous balancez de la caillasse dans l'autre sens pour les éloigner du chantier. Un chef de guerre qui commande plus c’est pas bon. Il va déprimer, il va s’mettre à bouffer, il va prendre quarante livres! Alors dites vous que c’est un combat réel et montrez-moi ce que vous avez dans l’slibard! Sans vouloir la ramener la seule différence concrète avec les briques c’est que vous appelez ça des tartes.
+Bonjour futur sbire ! Je suis CL4P-TP, mieux connu sous le nom de Claptrap !
+Mercenaire de classe interplanetaire, je cherche un sac à viande bien obéissant et utile pour m'accopmagner lors de mes voyages à travers la galaxie pour casser des culs ! 
+
+"Pourquoi je me mettrais au service d'un robot ?" te demande-tu ? C'est simple, LA THUNE ! Avec moi tu vas te faire des pistons en platine, du deviendras surement le sac à viande le plus riche de la galaxie ! Outre la richesse, tu auras aussi l'immense honneur d'etre le larbin du robot le plus cool de l'univers, n'est-ce pas là le rêve de tout humain qui se respecte ?
+
+Alors si tu sais appprecier l'humour, flinguer à tout vas sans poser de question et que tu es prêt à obéir au moindre de mes caprices, alors contact moi et nous organiserons une rencontre !
+
+__Vite je n'ai qu'une seule place !__
 
 ----
 
