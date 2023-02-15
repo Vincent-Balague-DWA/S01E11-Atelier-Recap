@@ -4,7 +4,7 @@
 
 _Robot parfait en quete d'un sbire acceptable_
 
-[Acceuil](README.md) - [Faits d'armes](projet.md) - Qualifications - [Contact](contact.md)
+[Acceuil](README.md) - [Faits d'armes](faits-darmes.md) - Qualifications - [Contact](contact.md)
 
 ## Qualifications 
 
