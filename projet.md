@@ -4,7 +4,7 @@
 
 _Robot parfait en quete d'un sbire acceptable_
 
-[Acceuil](README.md) - Faits d'armes - Qualifications - Contact
+[Acceuil](README.md) - Faits d'armes - [Qualifications](qualifications.md) - [Contact](contact.md)
 
 ## Mes faits d'armes
 
@@ -14,4 +14,6 @@ _Robot parfait en quete d'un sbire acceptable_
 | Header      | Title | Title | texte |
 | Header      | Title | Title | texte |
 
-FOOTER ICI
+----
+
+© 2077 - CL4P-TP - [Répondre à mon offre](contact.md)
