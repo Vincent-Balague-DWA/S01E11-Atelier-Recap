@@ -4,9 +4,9 @@
 
 _Robot parfait en quete d'un sbire acceptable_
 
-<==sommaire==>
+[Acceuil](README.md) - Faits d'armes - Qualifications - Contact
 
-## Mes projets
+## Mes faits d'armes
 
 | Client    | Date | Localisation | Lien |
 | ------ | ------ | ------ |------- |
