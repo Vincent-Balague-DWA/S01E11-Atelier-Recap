@@ -11,9 +11,9 @@ _Robot parfait en quete d'un sbire acceptable_
 _Vous pensez être fait pour m'obéir ?_  
 __Contactez-moi !__
 
-> cl4ptr4-the-best@botmail.com  
-> Systeme ECHO n°666.666  
-> [Linkedout](https://borderlands.fandom.com/wiki/Claptrap)  
+> :envelope: cl4ptr4-the-best@botmail.com  
+> :iphone: Systeme ECHO n°666.666  
+> :computer: [Linkedout](https://borderlands.fandom.com/wiki/Claptrap)  
 
 Gloire à moi !
 
